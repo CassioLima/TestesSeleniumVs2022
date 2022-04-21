@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProvaTesteCarol", "ProvaTesteCarol\ProvaTesteCarol.csproj", "{F0A4FF0D-680C-4980-913B-405EBB59B783}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProvaTesteCarol2", "ProvaTesteCarol2\ProvaTesteCarol2.csproj", "{DFABB3BA-0C63-4EE6-A8C7-762014056310}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0A4FF0D-680C-4980-913B-405EBB59B783}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0A4FF0D-680C-4980-913B-405EBB59B783}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0A4FF0D-680C-4980-913B-405EBB59B783}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0A4FF0D-680C-4980-913B-405EBB59B783}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFABB3BA-0C63-4EE6-A8C7-762014056310}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFABB3BA-0C63-4EE6-A8C7-762014056310}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFABB3BA-0C63-4EE6-A8C7-762014056310}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFABB3BA-0C63-4EE6-A8C7-762014056310}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A422D809-E7B0-481A-A294-7B849D46F2CA}
+	EndGlobalSection
+EndGlobal
