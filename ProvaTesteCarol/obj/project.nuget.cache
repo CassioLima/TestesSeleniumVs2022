@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Gq28BKdDGWf+FNXvrJEZkhW8WEYexz1HkxsaA89WpyGNkGMCLNLh1HGIEWY7aMS/ivvy4Pz6b+qIS83cjIfZMg==",
+  "dgSpecHash": "rulPr9ZUFt4RMzUOZzXy3Y4b0pu7bxBx+Ti9kr3eM9AyWPl7q+ZcRarvhksNsTAVQsy1Dgp3W+Yz224PTwRJnA==",
   "success": true,
-  "projectFilePath": "D:\\estudo\\prova teste Carol\\ProvaTesteCarol\\ProvaTesteCarol\\ProvaTesteCarol.csproj",
+  "projectFilePath": "D:\\estudo\\TestesSeleniumVs2022\\ProvaTesteCarol\\ProvaTesteCarol.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Cassio\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",
     "C:\\Users\\Cassio\\.nuget\\packages\\microsoft.codecoverage\\16.11.0\\microsoft.codecoverage.16.11.0.nupkg.sha512",

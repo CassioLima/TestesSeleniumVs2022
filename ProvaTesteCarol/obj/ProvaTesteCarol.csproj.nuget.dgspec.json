@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\estudo\\prova teste Carol\\ProvaTesteCarol\\ProvaTesteCarol\\ProvaTesteCarol.csproj": {}
+    "D:\\estudo\\TestesSeleniumVs2022\\ProvaTesteCarol\\ProvaTesteCarol.csproj": {}
   },
   "projects": {
-    "D:\\estudo\\prova teste Carol\\ProvaTesteCarol\\ProvaTesteCarol\\ProvaTesteCarol.csproj": {
+    "D:\\estudo\\TestesSeleniumVs2022\\ProvaTesteCarol\\ProvaTesteCarol.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\estudo\\prova teste Carol\\ProvaTesteCarol\\ProvaTesteCarol\\ProvaTesteCarol.csproj",
+        "projectUniqueName": "D:\\estudo\\TestesSeleniumVs2022\\ProvaTesteCarol\\ProvaTesteCarol.csproj",
         "projectName": "ProvaTesteCarol",
-        "projectPath": "D:\\estudo\\prova teste Carol\\ProvaTesteCarol\\ProvaTesteCarol\\ProvaTesteCarol.csproj",
+        "projectPath": "D:\\estudo\\TestesSeleniumVs2022\\ProvaTesteCarol\\ProvaTesteCarol.csproj",
         "packagesPath": "C:\\Users\\Cassio\\.nuget\\packages\\",
-        "outputPath": "D:\\estudo\\prova teste Carol\\ProvaTesteCarol\\ProvaTesteCarol\\obj\\",
+        "outputPath": "D:\\estudo\\TestesSeleniumVs2022\\ProvaTesteCarol\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Cassio\\AppData\\Roaming\\NuGet\\NuGet.Config",

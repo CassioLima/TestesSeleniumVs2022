@@ -5741,11 +5741,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\estudo\\prova teste Carol\\ProvaTesteCarol\\ProvaTesteCarol2\\ProvaTesteCarol2.csproj",
+      "projectUniqueName": "D:\\estudo\\TestesSeleniumVs2022\\ProvaTesteCarol2\\ProvaTesteCarol2.csproj",
       "projectName": "ProvaTesteCarol2",
-      "projectPath": "D:\\estudo\\prova teste Carol\\ProvaTesteCarol\\ProvaTesteCarol2\\ProvaTesteCarol2.csproj",
+      "projectPath": "D:\\estudo\\TestesSeleniumVs2022\\ProvaTesteCarol2\\ProvaTesteCarol2.csproj",
       "packagesPath": "C:\\Users\\Cassio\\.nuget\\packages\\",
-      "outputPath": "D:\\estudo\\prova teste Carol\\ProvaTesteCarol\\ProvaTesteCarol2\\obj\\",
+      "outputPath": "D:\\estudo\\TestesSeleniumVs2022\\ProvaTesteCarol2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Cassio\\AppData\\Roaming\\NuGet\\NuGet.Config",
